@@ -26,7 +26,7 @@ export const projects: ProjectExercise[] = [
       "Develop a smart scheduling portal that parses candidate availability using natural language and automates the matching process for interviewers.",
     engineeringDecision:
       "Leveraged **OpenAI API** to transform unstructured user input into structured JSON availability data. Implemented **Prisma** as an ORM to handle complex relational queries for conflict detection, ensuring 100% accuracy in calendar slotting.",
-    githubUrl: "https://github.com/example/ai-interview-booking",
-    liveDemoUrl: "https://ai-interview-booking.vercel.app",
+    githubUrl: "https://github.com/Meowmerry/ai-mockinterview-booking",
+    liveDemoUrl: "https://ai-booking-mock-interview.vercel.app/",
   },
 ];
